@@ -424,4 +424,9 @@
     <Library Include="SFML2\lib\sfml-window.lib" />
     <Library Include="SFML2\lib\sfml-window-s.lib" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="favicon.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
